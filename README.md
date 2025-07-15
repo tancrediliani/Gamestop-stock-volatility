@@ -9,7 +9,7 @@ This project analyzes GameStop (GME) stock volatility from 2002 to 2023 using va
 ## Repository Structure
 
 ```
-gamestop-stock-volatility/
+gamestop_analysis/
 ├── README.md                           # Project documentation
 ├── code/
 │   ├── gamestop.R                     # Main analysis script
